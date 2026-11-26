@@ -1,0 +1,9 @@
+/dist/
+**/dist/
+**/private/
+**/__pycache__/
+*.apk
+*.p12
+*.jks
+*.keystore
+*.pass
